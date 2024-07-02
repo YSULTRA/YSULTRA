@@ -1,6 +1,6 @@
 # Hi there, I'm Yash Singh! 👋
 
-![Profile views](https://gpvc.arturio.dev/YSULTRA)
+![Profile views](https://shields.io/badge/Profile_Views-Count-brightgreen?style=for-the-badge)
 
 ## About Me
 I am a passionate software developer currently pursuing a B.Tech in Computer Science and Engineering at Indraprastha Institute of Information Technology Delhi (IIIT-Delhi). I have expertise in Java, Python, and SQL, and I love working on exciting projects that make a difference. I'm always eager to learn new technologies and take on new challenges.
