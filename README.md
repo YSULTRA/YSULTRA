@@ -25,8 +25,6 @@ I am a passionate software developer currently pursuing a B.Tech in Computer Sci
 
 ## 📈 GitHub Stats
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=YSULTRA&show_icons=true&theme=radical)
-
-## 🔥 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YSULTRA&layout=compact&theme=radical)
 
 ## 💼 Projects
@@ -65,6 +63,16 @@ I am a passionate software developer currently pursuing a B.Tech in Computer Sci
 - Exploring new and emerging technologies
 - Learning about AI and Machine Learning
 - Experimenting with ChatGPT and Bard
+
+## 🏅 Achievements
+- Secured the second position in Class XII CBSE Board exams in 2022
+- Won the first prize in Mono Action Inter Zonal competition
+- Contributor at GSSoC 2024
+
+## 🌟 Hobbies
+- Programming and participating in hackathons
+- Reading tech blogs
+- Gaming
 
 ---
 
